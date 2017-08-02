@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1496929020 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\banco de dados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funcoes_mn.h"
+	"Funcoes_Validacao.h"
+	"Funcoes_ld.h"
+	"Funcoes_ldl.h"
+	"Funcoes_ab.h"
+
+1496929158 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_mn.h
+
+1495728398 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_validacao.h
+
+1496688116 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ld.h
+
+1496689512 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ldl.h
+
+1495587918 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ab.h
+
+1496322246 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ab.c
+
+1497045200 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ld.c
+	<stdio.h>
+
+1496968496 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_mn.c
+	<stdio.h>
+	<windows.h>
+
+1496329400 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_validacao.c
+	<stdio.h>
+	<ctype.h>
+
+1497060352 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ldl.c
+
+1496929020 source:f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\banco de dados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funcoes_mn.h"
+	"Funcoes_Validacao.h"
+	"Funcoes_ld.h"
+	"Funcoes_ldl.h"
+	"Funcoes_ab.h"
+
+1496929158 f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_mn.h
+
+1495728398 f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_validacao.h
+
+1496688116 f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ld.h
+
+1496689512 f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ldl.h
+
+1495587918 f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ab.h
+
+1496322246 source:f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ab.c
+
+1496688130 source:f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_ld.c
+	<stdio.h>
+
+1496968496 source:f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_mn.c
+	<stdio.h>
+	<windows.h>
+
+1496329400 source:f:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.2\funcoes_validacao.c
+	<stdio.h>
+	<ctype.h>
+
+1496929020 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\banco de dados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funcoes_mn.h"
+	"Funcoes_Validacao.h"
+	"Funcoes_ld.h"
+	"Funcoes_ldl.h"
+	"Funcoes_ab.h"
+
+1496929158 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_mn.h
+
+1495728398 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_validacao.h
+
+1496688116 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ld.h
+
+1496689512 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ldl.h
+
+1495587918 e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ab.h
+
+1496322246 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ab.c
+
+1497045200 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ld.c
+	<stdio.h>
+
+1497060352 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_ldl.c
+
+1496329400 source:e:\ads- fatec\ads- fatec 3ºsem\estrutura de dados\algoritimos\projeto banco de dados v3.5\funcoes_validacao.c
+	<stdio.h>
+	<ctype.h>
+
