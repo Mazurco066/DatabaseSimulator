@@ -10,9 +10,6 @@ VISÃO GERAL DO PROGRAMA
 
 [email] mazurco066@gmail.com
 
-.......
-.......
-
 [objetivo] Simulação de um Banco de Dados com lista dinamica, lista duplamente ligada e arvore binaria
 
 [arquitetura] Esse é um projeto modullarizado em 5 bibliotecas
